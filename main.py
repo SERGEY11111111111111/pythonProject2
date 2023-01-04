@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def guess_number():
     number_to_guess = np.random.randint(1, 101)
     first = 1
